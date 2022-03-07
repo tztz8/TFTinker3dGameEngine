@@ -4,6 +4,8 @@ I am mostly using this to gather the things I learn about openGL and Cpp in to o
 
 > Note: I may change to be an actual project latter
 
+The code documentation [DoxygenOutput](docs/html/index.html)
+
 The library in the lib folder I am using [LibDocs](docs/md/lib.md)
 
 The Dev System I am using to make this project [DevSystem](docs/md/devSystem.md)
